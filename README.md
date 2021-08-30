@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @1rValidity
+- 👀 I’m interested in Javascript and Rust Lang.
+- 🌱 I’m currently learning Rust.
+- 💞️ I’m looking to collaborate on any world changing projects.
+- 📫 email - validitynodes@protonmail.com 🐦 @ValidityN
